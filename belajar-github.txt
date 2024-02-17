@@ -2,5 +2,4 @@ Belajar github
 - belajar git
 - belajar github
 - komponen git dan github
-- materinya mengikuti dicoding
 dll
